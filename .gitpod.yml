@@ -1,7 +1,8 @@
 image:
   file: .gitpod.Dockerfile
 ports:
-  - port: 19000-19002
+  - port: 3000-19002
+    onOpen: ignore
 tasks:
   - before: cd my-tfjs-app/ && yarn 
     command: yarn start
