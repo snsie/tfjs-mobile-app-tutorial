@@ -5,7 +5,7 @@ export default function App(props) {
   return (
     <View style={styles.container}>
       <Text accessibilityRole="header" style={styles.text}>
-        React Native for Web & Next.js
+        React test Native for Web & Next.js
       </Text>
 
       <Text style={styles.link} accessibilityRole="link" href={`/alternate`}>
