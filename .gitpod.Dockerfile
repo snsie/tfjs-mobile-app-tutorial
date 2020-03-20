@@ -2,7 +2,7 @@ FROM gitpod/workspace-full-vnc
                     
 USER gitpod
 
-RUN RUN sudo apt-get update \ 
+RUN sudo apt-get update \ 
     && sudo apt-get install -y \
     && sudo npm install -g expo-cli 
 # Install custom tools, runtime, etc. using apt-get
