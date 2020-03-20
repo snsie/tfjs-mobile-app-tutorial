@@ -1,8 +1,10 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-full-vnc
                     
 USER gitpod
 
-RUN npm install expo-cli --global
+RUN RUN sudo apt-get update \ 
+    && sudo apt-get install -y \
+    && sudo npm install -g expo-cli 
 # Install custom tools, runtime, etc. using apt-get
 # For example, the command below would install "bastet" - a command line tetris clone:
 #
