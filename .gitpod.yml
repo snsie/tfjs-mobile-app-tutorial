@@ -3,6 +3,10 @@ image:
 ports:
   - port: 3000-19002
     onOpen: ignore
+    port: 19001-19010
+    onOpen: open-browser
+    
 tasks:
-  - before: cd my-tfjs-app/ && yarn 
+  - before: cd my-tfjs-app/ 
+    init: yarn 
     command: yarn start
