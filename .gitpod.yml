@@ -7,6 +7,5 @@ ports:
     onOpen: open-browser
     
 tasks:
-  - before: cd my-tfjs-app/ 
-    init: yarn 
+  - before: cd my-tfjs-app/ && yarn
     command: yarn start
