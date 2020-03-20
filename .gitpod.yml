@@ -1,7 +1,6 @@
-image:
-  file: Dockerfile
 ports:
   - port: 3000
 tasks:
-  - init: yarn
-    command: ./scripts/code.sh
+  - before: cd /workspace/tfjs-mobile-app-tutorial/app
+    init: yarn
+    command: yarn dev

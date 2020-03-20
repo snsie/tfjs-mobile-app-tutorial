@@ -1,7 +1,7 @@
 {
   "name": "with-react-native-web",
   "scripts": {
-    "dev": "next",
+    "dev": "next -p 3000",
     "build": "next build",
     "start": "next start"
   },
