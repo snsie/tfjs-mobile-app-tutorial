@@ -1,8 +1,0 @@
-{
-  "scripts": {
-    "build": "next build"
-  },
-  "dependencies": {
-    "next": "^9.3.1"
-  }
-}

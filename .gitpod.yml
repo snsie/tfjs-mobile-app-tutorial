@@ -1,8 +1,8 @@
 image:
   file: .gitpod.Dockerfile
 
-tasks:
-  - before: cd /workspace/tfjs-mobile-app-tutorial/app
-    init: yarn
-    command: yarn start
+#tasks:
+##  - before: cd /workspace/tfjs-mobile-app-tutorial/app
+#    init: yarn
+#    command: yarn start
     
