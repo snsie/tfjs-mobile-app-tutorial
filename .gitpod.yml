@@ -1,7 +1,7 @@
 image:
   file: Dockerfile
 ports:
-  - port: 6080
+  - port: 3000
 tasks:
   - init: yarn
     command: ./scripts/code.sh
