@@ -5,4 +5,4 @@ ports:
 tasks:
   - before: cd /workspace/tfjs-mobile-app-tutorial/app
     init: yarn
-    command: yarn dev
+    command: yarn start
