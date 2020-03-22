@@ -1,0 +1,21 @@
+1. Remember to git add/commit/push once you've been able to get something
+to work and are at a good point or when you are calling it a day. Discuss
+what could happen to their workspaces if they don't commit their code to github
+(gitpod's time until forgetting workspaces)
+
+2. remember to stop your workspace when you're done so that your monthly
+usage quota won't be consumed while you're away (look up and link gitpod's
+info on this) also mention the colored indicators on the left side of
+each workspace instance to ensure that your workspace isn't open.
+
+3. Point out the following gitpod features: (each side bar tool [left and right]),
+(ctrl-shift-p and start typing theme, then you can choose different icon and 
+editor themes)(integration with vscode, mention built in vscode exts)
+
+4. don't forget to talk bout the color tool
+(create tab in https://color.adobe.com/explore) talk about how one of
+the circles has a triangle at the base. that circle acts as an anchor.
+the other circles will try to stay proportional to it, so set up the
+other circles and then move the anchor around. Each circle has another
+circle that will mirror it across the anchor circle. The mirroring
+circle will maintain the angle, but not the length
