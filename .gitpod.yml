@@ -1,6 +1,6 @@
 ports:
   - port: 3000
-    onOpen: open-preview
+    onOpen: open-browser
 tasks:
   - before: cd /workspace/tfjs-mobile-app-tutorial/app
     init: yarn
