@@ -9,7 +9,7 @@ info on this) also mention the colored indicators on the left side of
 each workspace instance to ensure that your workspace isn't open.
 
 3. Point out the following gitpod features: (each side bar tool [left and right]),
-(ctrl-shift-p and start typing theme, then you can choose different icon and 
+(ctrl-shift-p and start typing theme, then you can choose different icon and
 editor themes)(integration with vscode, mention built in vscode exts)
 
 4. don't forget to talk bout the color tool
@@ -19,3 +19,9 @@ the other circles will try to stay proportional to it, so set up the
 other circles and then move the anchor around. Each circle has another
 circle that will mirror it across the anchor circle. The mirroring
 circle will maintain the angle, but not the length
+
+5. remember to talk about import differences and destructuring
+
+6. remember to talk about project structure (node_modules/src/package.json/index/app)
+
+7. talk about casing, such as react and camelcasing
