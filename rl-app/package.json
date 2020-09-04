@@ -15,7 +15,7 @@
     "echarts-for-react": "^2.0.15-beta.1",
     "mobx": "^5.15.4",
     "mobx-react-lite": "^2.0.0-alpha.5",
-    "react": "^0.0.0-experimental-aae83a4b9",
+    "react": "^0.14.0",
     "react-dom": "^0.0.0-experimental-aae83a4b9",
     "react-scripts": "3.4.1",
     "react-spring": "9.0.0-canary.809.5.f01ecc2",
